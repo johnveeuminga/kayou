@@ -1,0 +1,10 @@
+export const HOME_SCREEN = 'kayou.HomeScreen';
+export const AUTHGATE_SCREEN = 'kayou.AuthGateScreen';
+export const LOGIN_SCREEN = 'kayou.LoginScreen';
+export const TREE_DETAILS_SCREEN = 'kayou.TreeDetailsScreen';
+export const TREE_DETAILS_QR_SCREEN = 'kayou.TreeDetailsQRScreen';
+export const PROFILE_SCREEN = 'kayou.ProfileScreen';
+export const ADD_TREE_SCREEN = 'kayou.AddTreeScreen';
+export const SCAN_QR_SCREEN = 'kayou.ScanQrScreen';
+export const ADD_TREE_SELECT_LOCATION = 'kayou.AddTreeSelectLocation';
+export const NOT_FOUND_SCREEN = 'kayou.NotFoundScreen';
